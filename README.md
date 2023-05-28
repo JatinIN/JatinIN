@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jatin
-- 👀 talks on java-sql-rdmbs-
+- 👀 talks on java-sql-rdmbs-JavaScript-
 - 🌱 I’m currently learning networks-DNS-DomainController.
 - 💞️ I’m looking to new opportunities
 - 📫 How to reach me https://www.linkedin.com/in/jatin-ojwal-3b1b4a11a/
